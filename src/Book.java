@@ -25,6 +25,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return title + "( " + pageCount + " pages )";
+        return title + "(" + pageCount + " pages)";
     }
 }
