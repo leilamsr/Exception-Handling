@@ -27,6 +27,4 @@ public class Book {
     public String toString() {
         return title + "( " + pageCount + " pages )";
     }
-
-
 }
